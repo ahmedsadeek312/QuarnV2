@@ -226,6 +226,9 @@ header .btn-group {
   z-index: 100;
   transition: 0.5s;
 }
+.sidebar-right .souras-container .soura:hover {
+  background-color: rgb(16, 162, 195);
+}
 
 /* @media  (max-width: 768px) {
 
